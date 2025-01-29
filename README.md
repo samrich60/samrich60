@@ -17,9 +17,13 @@ Me chamo Sammy Richard Alves sou estudante de Análise e Desenvolvimento de Sist
   <img
     align = "left"
     height = "150"
-    style = "padding-right: 100px;"
+    style = "padding-right: 90px;"
     src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samrich60&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
