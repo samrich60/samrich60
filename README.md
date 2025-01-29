@@ -27,14 +27,6 @@ Me chamo Sammy Richard Alves sou estudante de Análise e Desenvolvimento de Sist
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## 🤖​ Linguagens e Tecnologias
   <img
