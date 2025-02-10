@@ -1,5 +1,9 @@
 <h3 align="left">👨🏻‍💻​ Sammy Richard Alves</h3>
 
+
+**`Desenvolvedor Backend`** 
+**`Estudante de Java`**
+
 ###
 
 <h6 align="left">Me chamo Sammy Richard Alves sou estudante de Análise e Desenvolvimento de Sistemas na UNIDESC. Desde pequeno, sou entusiasta em tecnologia, sempre fascinado pelo mundo digital, depois que entrei na faculdade mergulhei de vez na programação. Durante minha trajetória acadêmica, me aprofundei em estudar Java, aprendendo Lógica de Programação, Algoritmo e POO.</h6>
@@ -38,18 +42,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/samrich60/samrich60/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
 
 ###
 
