@@ -1,9 +1,5 @@
 <h3 align="left">👨🏻‍💻​ Sammy Richard Alves</h3>
 
-
-**`Desenvolvedor Backend`** 
-**`Estudante de Java`**
-
 ###
 
 <h6 align="left">Me chamo Sammy Richard Alves sou estudante de Análise e Desenvolvimento de Sistemas na UNIDESC. Desde pequeno, sou entusiasta em tecnologia, sempre fascinado pelo mundo digital, depois que entrei na faculdade mergulhei de vez na programação. Durante minha trajetória acadêmica, me aprofundei em estudar Java, aprendendo Lógica de Programação, Algoritmo e POO.</h6>
@@ -28,9 +24,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="10" />
@@ -48,6 +42,8 @@
 <h3 align="left">🌐 Mídia Sociais</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sammy-richard/" target="_blank">
