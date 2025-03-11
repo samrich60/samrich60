@@ -11,9 +11,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrich60&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=Status" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrich60&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Linguagem%20Utilizadas" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=samrich60&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=false&custom_title=Status" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrich60&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" height="150" alt="languages graph" />
 </div>
+
 
 ###
 
@@ -35,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
 ###
